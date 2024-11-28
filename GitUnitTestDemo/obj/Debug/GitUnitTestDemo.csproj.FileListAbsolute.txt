@@ -1,0 +1,8 @@
+C:\NET_Projects\Yordan_Yordanov_26a_223046\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.exe.config
+C:\NET_Projects\Yordan_Yordanov_26a_223046\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.exe
+C:\NET_Projects\Yordan_Yordanov_26a_223046\GitUnitTestDemo\bin\Debug\GitUnitTestDemo.pdb
+C:\NET_Projects\Yordan_Yordanov_26a_223046\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.AssemblyReference.cache
+C:\NET_Projects\Yordan_Yordanov_26a_223046\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.SuggestedBindingRedirects.cache
+C:\NET_Projects\Yordan_Yordanov_26a_223046\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.csproj.CoreCompileInputs.cache
+C:\NET_Projects\Yordan_Yordanov_26a_223046\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.exe
+C:\NET_Projects\Yordan_Yordanov_26a_223046\GitUnitTestDemo\obj\Debug\GitUnitTestDemo.pdb

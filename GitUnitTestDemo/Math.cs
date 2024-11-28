@@ -60,8 +60,5 @@ namespace GitUnitTestDemo
         {
             return Convert.ToString(a, 2);
         }
-
-
-
     }
 }
